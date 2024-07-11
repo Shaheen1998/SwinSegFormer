@@ -1,0 +1,30 @@
+Final notebooks used for the paper (07jul/11/2024)
+Here are all notebook links with their usernames, all other user notebooks can also be accessed with this mail (mshaheen.msee20seecs@seecs.edu.pk) because shared on this. 
+
+SwinSegFormer
+- SwinSegFormer_Training-75miou 57k iteration (mIOU 74.6%)/ Testing: https://www.kaggle.com/code/mshaheenn/swinseg-60epc/log?scriptVersionId=176575834 (mshaheen.msee20seecs@seecs.edu.pk)
+- SwinSegFormer Testing visual results : https://www.kaggle.com/code/matlabnasir/test-swint-seg/notebook?scriptVersionId=139145106 (matlabnasir24@gmail.com)
+- SwinSegFormer Evaluation(Inference) For-real-images-flooded-classes-area-estimation (24-images): 
+  https://www.kaggle.com/code/mshaheenn/for-real-images-flooded-classes-area-estimation?scriptVersionId=177324303 (mshaheen.msee20seecs@seecs.edu.pk)
+- SwinSegFormer Evaluation(Inference) for Unlabelled FloodNet and Flooded area estimation:
+  https://www.kaggle.com/code/mshaheenn/for-real-images-flooded-classes-area-estimation/notebook?scriptVersionId=176836609 (mshaheen.msee20seecs@seecs.edu.pk)
+  https://www.kaggle.com/code/mshaheenn/for-real-images-flooded-classes-area-estimation?scriptVersionId=176885796 (mshaheen.msee20seecs@seecs.edu.pk)
+  https://www.kaggle.com/code/mshaheenn/for-real-images-flooded-classes-area-estimation?scriptVersionId=176934543 (mshaheen.msee20seecs@seecs.edu.pk)
+
+- SwinT finetuning Folk : https://www.kaggle.com/code/matlabnasir/swint-finetuning-folk/edit (matlabnasir24@gmail.com)
+- SwinT Test Version (iou_64.14) (used my thesis) https://www.kaggle.com/code/matlabnasir/test-swint-finetuning-folk/notebook?scriptVersionId=138047875 (matlabnasir24@gmail.com)
+
+- SegformerB5 (512*512) 40000-Epoc: https://www.kaggle.com/code/mshaheenn/segformerb5-train-upwork/log?scriptVersionId=165588800  (mshaheen.msee20seecs@seecs.edu.pk)
+- SegformerB5 (512*512) Testing: https://www.kaggle.com/code/mshaheenn/segformerb5-testing-upw?scriptVersionId=165670159  (mshaheen.msee20seecs@seecs.edu.pk)
+- Segformerb5(size 640)   https://www.kaggle.com/code/mshaheenn/test-segformer-frm-github-trained?scriptVersionId=139377857  (mshaheen.msee20seecs@seecs.edu.pk)
+- segformerb4   https://www.kaggle.com/code/matlabnasir/test-segformer-frm-github-trained?scriptVersionId=139411394  (matlabnasir24@gmail.com)
+
+- Training DeeplabV3+: https://www.kaggle.com/code/mtariqshaheen/deeplabv3-upwork?scriptVersionId=164956908  (mtariqs1998@gmail.com)
+- Testing DeeplabV3+:  https://www.kaggle.com/code/mtariqshaheen/deeplabv3-testing?scriptVersionId=165665913  (mtariqs1998@gmail.com)
+
+
+Datasets:
+- FloodNet Dataset: https://www.kaggle.com/datasets/mshaheenn/samplezip (mshaheen.msee20seecs@seecs.edu.pk)
+- Dataset-of-real-images-(24-images)__Unlabelled-FloodNet: https://www.kaggle.com/datasets/mshaheenn/new-real-images-4country/data (mshaheen.msee20seecs@seecs.edu.pk)
+
+- mmseg documentation: https://github.com/open-mmlab/mmsegmentation/blob/main/demo/MMSegmentation_Tutorial.ipynb
