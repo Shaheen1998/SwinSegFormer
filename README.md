@@ -24,7 +24,7 @@ mDice of 85.4%, and mAcc of 87.1%, representing a 10-12% improvement compared to
 Future work includes exploring SwinSegFormer’s interpretability
 and real-time deployment in diverse aerial imagery conditions.
 
-## My Proposed SwinSegFormer Model and Supported Models with Thier Predicted Results and Config Files
+## My Proposed SwinSegFormer Model and All Supported Models with Thier Predicted Results and Config Files
 
 ### 1. SwinSegFormer Model: https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/SwinSegFormer_Model
 ### 2. SwinSegFormer Model Inference on Real Word Images, and Flooded Affected Area Estimation: https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/SwinSegFormer_Model_Inference%20and%20Flooded_Affected_Area_Estimation
