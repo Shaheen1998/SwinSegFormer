@@ -20,14 +20,36 @@ notable results with a validation mIoU of 75.1%, mDice of 85.4%, and mAcc of 87.
 SwinSegFormer’s interpretability and real-time deployment in diverse aerial imagery conditions. Code is
 available at: https://github.com/Shaheen1998/SwinSegFormer.
 
-## My Proposed SwinSegFormer Model and All Supported Models with Thier Predicted Results and Config Files
+📌 **Code Repository:** [SwinSegFormer GitHub](https://github.com/Shaheen1998/SwinSegFormer)
 
-### 1. SwinSegFormer Model: https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/SwinSegFormer_Model
-### 2. SwinSegFormer Model Inference on Real Word Images, and Flooded Affected Area Estimation: https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/SwinSegFormer_Model_Inference%20and%20Flooded_Affected_Area_Estimation
-### 3. Hybrib Model __SwinT_ViTs-decoder: https://github.com/Shaheen1998/SwinSegFormer/blob/main/Hybrid%20Model__SwinT_Vit-decoder.ipynb
-### 4. Hybrib Model __SegFormer_Swin-decoder: https://github.com/Shaheen1998/SwinSegFormer/blob/main/Hybrid%20Model__SegFormer_Swin-decoder.ipynb
-### 5. Hybrib Model __Segformer_ViTs-decoder: https://github.com/Shaheen1998/SwinSegFormer/blob/main/Hybrib%20Model%20__SegFormer_Vit-decoder.ipynb
-### 6. Swin Transformer Model: https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/Swin_Transformer_Model
-### 7. SegFormer Model: https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/SegFormer_Model
-### 8. DeepLabV3+ Model: https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/DeepLabV3%2B%20Model
-### 9. FloodNet_dataset: https://kaggle.com/datasets/c46b2c738b08fcb6a494f66c17572c9844936498062f7b1884ad8d4c0bbad349
+---
+
+## 🔥 SwinSegFormer Model and Supported Models
+This repository contains the **SwinSegFormer** model along with other supported models, their predicted results, and corresponding configuration files.
+
+### 🚀 SwinSegFormer & Model Variants
+1. **SwinSegFormer Model:** [Link](https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/SwinSegFormer_Model)
+2. **SwinSegFormer Model Inference on Real-World Images & Flood-Affected Area Estimation:** [Link](https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/SwinSegFormer_Model_Inference%20and%20Flooded_Affected_Area_Estimation)
+
+### 🔄 Hybrid Models
+3. **Hybrid Model - SwinT + ViTs Decoder:** [Link](https://github.com/Shaheen1998/SwinSegFormer/blob/main/Hybrid%20Model__SwinT_Vit-decoder.ipynb)
+4. **Hybrid Model - SegFormer + Swin Decoder:** [Link](https://github.com/Shaheen1998/SwinSegFormer/blob/main/Hybrid%20Model__SegFormer_Swin-decoder.ipynb)
+5. **Hybrid Model - SegFormer + ViTs Decoder:** [Link](https://github.com/Shaheen1998/SwinSegFormer/blob/main/Hybrib%20Model%20__SegFormer_Vit-decoder.ipynb)
+
+### 📌 Baseline Models
+6. **Swin Transformer Model:** [Link](https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/Swin_Transformer_Model)
+7. **SegFormer Model:** [Link](https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/SegFormer_Model)
+8. **DeepLabV3+ Model:** [Link](https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/DeepLabV3%2B%20Model)
+
+### 📊 Dataset
+9. **FloodNet Dataset:** [Download from Kaggle](https://kaggle.com/datasets/c46b2c738b08fcb6a494f66c17572c9844936498062f7b1884ad8d4c0bbad349)
+
+---
+
+## 🤝 Contact
+For any inquiries, feel free to reach out:
+- **Author:** Muhammad Tariq Shaheen
+- **GitHub:** [@Shaheen1998](https://github.com/Shaheen1998)  
+- **Email:** [mshaheen.msee20seecs@seecs.edu.pk]
+
+🚀 **Happy Coding!** 🚀
