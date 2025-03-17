@@ -24,7 +24,10 @@ available at: https://github.com/Shaheen1998/SwinSegFormer.
 
 ### 1. SwinSegFormer Model: https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/SwinSegFormer_Model
 ### 2. SwinSegFormer Model Inference on Real Word Images, and Flooded Affected Area Estimation: https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/SwinSegFormer_Model_Inference%20and%20Flooded_Affected_Area_Estimation
-### 3. Swin Transformer Model: https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/Swin_Transformer_Model
-### 4. SegFormer Model: https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/SegFormer_Model
-### 5. DeepLabV3+ Model: https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/DeepLabV3%2B%20Model
-### 6. FloodNet_dataset: https://kaggle.com/datasets/c46b2c738b08fcb6a494f66c17572c9844936498062f7b1884ad8d4c0bbad349
+### 3. Hybrib Model __SwinT_ViTs-decoder: https://github.com/Shaheen1998/SwinSegFormer/blob/main/Hybrid%20Model__SwinT_Vit-decoder.ipynb
+### 4. Hybrib Model __SegFormer_Swin-decoder: https://github.com/Shaheen1998/SwinSegFormer/blob/main/Hybrid%20Model__SegFormer_Swin-decoder.ipynb
+### 5. Hybrib Model __Segformer_ViTs-decoder: https://github.com/Shaheen1998/SwinSegFormer/blob/main/Hybrib%20Model%20__SegFormer_Vit-decoder.ipynb
+### 6. Swin Transformer Model: https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/Swin_Transformer_Model
+### 7. SegFormer Model: https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/SegFormer_Model
+### 8. DeepLabV3+ Model: https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/DeepLabV3%2B%20Model
+### 9. FloodNet_dataset: https://kaggle.com/datasets/c46b2c738b08fcb6a494f66c17572c9844936498062f7b1884ad8d4c0bbad349
