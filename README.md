@@ -50,6 +50,6 @@ This repository contains the **SwinSegFormer** model along with other supported 
 For any inquiries, feel free to reach out:
 - **Author:** Muhammad Tariq Shaheen
 - **GitHub:** [@Shaheen1998](https://github.com/Shaheen1998)  
-- **Email:** [mshaheen.msee20seecs@seecs.edu.pk]
+- **Email:** mshaheen.msee20seecs@seecs.edu.pk
 
 🚀 **Happy Coding!** 🚀
