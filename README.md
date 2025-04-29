@@ -20,6 +20,8 @@ notable results with a validation mIoU of 75.1%, mDice of 85.4%, and mAcc of 87.
 SwinSegFormer’s interpretability and real-time deployment in diverse aerial imagery conditions. Code is
 available at: https://github.com/Shaheen1998/SwinSegFormer.
 
+**Published Paper:** [IEEE Xplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10979465)
+
 📌 **Code Repository:** [SwinSegFormer GitHub](https://github.com/Shaheen1998/SwinSegFormer)
 
 ---
@@ -49,7 +51,7 @@ This repository contains the **SwinSegFormer** model along with other supported 
 ## 🤝 Contact
 For any inquiries, feel free to reach out:
 - **Author:** Muhammad Tariq Shaheen
-- **GitHub:** [@Shaheen1998](https://github.com/Shaheen1998)  
+- **GitHub:** [@Shaheen1998](https://github.com/Shaheen1998)
 - **Email:** mshaheen.msee20seecs@seecs.edu.pk
 
 🚀 **Happy Coding!** 🚀
