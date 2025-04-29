@@ -33,11 +33,6 @@ This repository contains the **SwinSegFormer** model along with other supported 
 1. **SwinSegFormer Model:** [Link](https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/SwinSegFormer_Model)
 2. **SwinSegFormer Model Inference on Real-World Images & Flood-Affected Area Estimation:** [Link](https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/SwinSegFormer_Model_Inference%20and%20Flooded_Affected_Area_Estimation)
 
-### 🔄 Hybrid Models
-3. **Hybrid Model - SwinT + ViTs Decoder:** [Link](https://github.com/Shaheen1998/SwinSegFormer/blob/main/Hybrid%20Model__SwinT_Vit-decoder.ipynb)
-4. **Hybrid Model - SegFormer + Swin Decoder:** [Link](https://github.com/Shaheen1998/SwinSegFormer/blob/main/Hybrid%20Model__SegFormer_Swin-decoder.ipynb)
-5. **Hybrid Model - SegFormer + ViTs Decoder:** [Link](https://github.com/Shaheen1998/SwinSegFormer/blob/main/Hybrib%20Model%20__SegFormer_Vit-decoder.ipynb)
-
 ### 📌 Baseline Models
 6. **Swin Transformer Model:** [Link](https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/Swin_Transformer_Model)
 7. **SegFormer Model:** [Link](https://github.com/Shaheen1998/SwinSegFormer-Research_All-Supported_Models/tree/main/SegFormer_Model)
